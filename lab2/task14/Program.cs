@@ -19,6 +19,11 @@ namespace task14
             double c;
             c = double.Parse(z);
             double b;
+            if (c <= 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение B должно быть положительным"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
             b = a * Math.Sqrt(-7 * c);
             Console.WriteLine("{0:F4}", b);
         }

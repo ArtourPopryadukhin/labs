@@ -1,0 +1,5 @@
+D:\C#\lab5\lab5\task23\bin\Debug\task23.exe.config
+D:\C#\lab5\lab5\task23\bin\Debug\task23.exe
+D:\C#\lab5\lab5\task23\bin\Debug\task23.pdb
+D:\C#\lab5\lab5\task23\obj\Debug\task23.exe
+D:\C#\lab5\lab5\task23\obj\Debug\task23.pdb

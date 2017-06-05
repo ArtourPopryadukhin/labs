@@ -1,0 +1,6 @@
+D:\C#\lab5\lab5\task13\bin\Debug\task13.exe.config
+D:\C#\lab5\lab5\task13\bin\Debug\task13.exe
+D:\C#\lab5\lab5\task13\bin\Debug\task13.pdb
+D:\C#\lab5\lab5\task13\obj\Debug\task13.csprojResolveAssemblyReference.cache
+D:\C#\lab5\lab5\task13\obj\Debug\task13.exe
+D:\C#\lab5\lab5\task13\obj\Debug\task13.pdb

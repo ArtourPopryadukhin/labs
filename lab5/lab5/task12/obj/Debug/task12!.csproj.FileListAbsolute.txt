@@ -1,0 +1,10 @@
+D:\C#\lab5\lab5\task12\bin\Debug\task12.exe.config
+D:\C#\lab5\lab5\task12\bin\Debug\task12.exe
+D:\C#\lab5\lab5\task12\bin\Debug\task12.pdb
+D:\C#\lab5\lab5\task12\obj\Debug\task12.exe
+D:\C#\lab5\lab5\task12\obj\Debug\task12.pdb
+F:\C#\lab5\lab5\task12\bin\Debug\task12.exe.config
+F:\C#\lab5\lab5\task12\obj\Debug\task12.exe
+F:\C#\lab5\lab5\task12\obj\Debug\task12.pdb
+F:\C#\lab5\lab5\task12\bin\Debug\task12.exe
+F:\C#\lab5\lab5\task12\bin\Debug\task12.pdb

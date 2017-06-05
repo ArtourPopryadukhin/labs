@@ -1,0 +1,6 @@
+F:\C#\lab5\lab5\task8\bin\Debug\task8.exe.config
+F:\C#\lab5\lab5\task8\obj\Debug\task8!.csprojResolveAssemblyReference.cache
+F:\C#\lab5\lab5\task8\bin\Debug\task8.exe
+F:\C#\lab5\lab5\task8\bin\Debug\task8.pdb
+F:\C#\lab5\lab5\task8\obj\Debug\task8.exe
+F:\C#\lab5\lab5\task8\obj\Debug\task8.pdb

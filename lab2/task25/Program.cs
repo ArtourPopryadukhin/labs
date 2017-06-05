@@ -22,6 +22,7 @@ namespace task25
             x = Console.ReadLine();
             double v;
             v = double.Parse(x);
+            
             double b;
             b = Math.Sqrt((a * a) + (c * c) + 2 * a * c * (Math.Cos(v)));
             Console.WriteLine("{0:F4}", b);

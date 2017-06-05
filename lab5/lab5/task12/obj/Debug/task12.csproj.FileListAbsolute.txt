@@ -1,0 +1,2 @@
+D:\C#\lab5\lab5\task12\bin\Debug\task12.exe.config
+D:\C#\lab5\lab5\task12\obj\Debug\task12.csprojResolveAssemblyReference.cache

@@ -22,20 +22,26 @@ namespace task20
             x = Console.ReadLine();
             double v;
             v = double.Parse(x);
+            if (a <= 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение M должно быть положительным"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
+            if (c <= 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение V должно быть положительным"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
+            if (v <= 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение H должно быть неотрицательным"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
             double b;
             b = a * c * c / 2;
             Console.WriteLine("{0:F4}", b);
-            
-            String q;
-            q = Console.ReadLine();
-            double o;
-            o = double.Parse(q);
-            String d;
-            d = Console.ReadLine();
-            double s;
-            s = double.Parse(d);
             double r;
-            r = o * 9.8067 * s;
+            r = a * 9.8067 * v;
             Console.WriteLine("{0:F4}", r);
         }
     }

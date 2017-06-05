@@ -1,0 +1,6 @@
+D:\C#\lab5\lab5\task25\bin\Debug\task25.exe.config
+D:\C#\lab5\lab5\task25\bin\Debug\task25.exe
+D:\C#\lab5\lab5\task25\bin\Debug\task25.pdb
+D:\C#\lab5\lab5\task25\obj\Debug\task25.csprojResolveAssemblyReference.cache
+D:\C#\lab5\lab5\task25\obj\Debug\task25.exe
+D:\C#\lab5\lab5\task25\obj\Debug\task25.pdb

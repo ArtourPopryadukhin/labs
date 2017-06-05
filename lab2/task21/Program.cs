@@ -18,6 +18,16 @@ namespace task21
             z = Console.ReadLine();
             double c;
             c = double.Parse(z);
+            if (a != 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение R1 должно быть не равно нулю"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
+            if (c != 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение R2 должно быть не равно нулю"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
             double b;
             b = 1 / a + 1 / c;
             Console.WriteLine("{0:F4}", b);

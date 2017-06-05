@@ -15,6 +15,11 @@ namespace task15
             double a;
             a = double.Parse(t);
             double b;
+            if (a <= 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение T должно быть выше абсолютного нуля"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
             b = a * 1.8 + 32;
             Console.WriteLine("{0:F4}", b);
         }

@@ -26,6 +26,11 @@ namespace task24
             r = Console.ReadLine();
             double w;
             w = double.Parse(r);
+            if (w != 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение r должно быть не равно нулю"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
             double b;
             b = a * ((c * v) /( w * w));
             Console.WriteLine("{0:F4}", b);

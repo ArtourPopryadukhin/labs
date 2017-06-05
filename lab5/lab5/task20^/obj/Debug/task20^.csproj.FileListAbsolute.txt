@@ -1,0 +1,5 @@
+F:\C#\lab5\lab5\task20^\bin\Debug\task20^.exe.config
+F:\C#\lab5\lab5\task20^\bin\Debug\task20^.exe
+F:\C#\lab5\lab5\task20^\bin\Debug\task20^.pdb
+F:\C#\lab5\lab5\task20^\obj\Debug\task20^.exe
+F:\C#\lab5\lab5\task20^\obj\Debug\task20^.pdb

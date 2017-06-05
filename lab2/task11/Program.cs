@@ -16,6 +16,11 @@ namespace task11
             a = double.Parse(t);
             double b;
             b = Math.Sqrt(a);
+            if (a <= 0)
+            { // если А имеет некооректное знание
+                Console.WriteLine("Значение X должно быть положительным"); // Выводим ошибку
+                return; // Завершаем работу программы
+            }
             Console.WriteLine("{0:F4}", b);
         }
     }

@@ -1,0 +1,12 @@
+D:\C#\lab5\lab5\task18\bin\Debug\task18.exe.config
+D:\C#\lab5\lab5\task18\bin\Debug\task18.exe
+D:\C#\lab5\lab5\task18\bin\Debug\task18.pdb
+D:\C#\lab5\lab5\task18\obj\Debug\task17!.csprojResolveAssemblyReference.cache
+D:\C#\lab5\lab5\task18\obj\Debug\task18.exe
+D:\C#\lab5\lab5\task18\obj\Debug\task18.pdb
+F:\C#\lab5\lab5\task18\bin\Debug\task18.exe.config
+F:\C#\lab5\lab5\task18\obj\Debug\task18.exe
+F:\C#\lab5\lab5\task18\obj\Debug\task18.pdb
+F:\C#\lab5\lab5\task18\bin\Debug\task18.exe
+F:\C#\lab5\lab5\task18\bin\Debug\task18.pdb
+F:\C#\lab5\lab5\task18\obj\Debug\task17!.csprojResolveAssemblyReference.cache
