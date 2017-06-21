@@ -10,19 +10,26 @@ namespace task13
     {
         static void Main(string[] args)
         {
-            String z= Console.ReadLine();
+            String z = Console.ReadLine();
             int a;
             a = int.Parse(z);
             String x = Console.ReadLine();
             int b;
             b = int.Parse(x);
             int sum = 0;
-            while (a < b || a > b)
+            while (a <= b)
             {
-                sum = sum + b;
-                a = a + 1;
+                sum = sum + a;
+                a++;
             }
             Console.Write(sum);
+            //    while (a >= b)
+            //    {
+            //        sum = sum + b;
+            //            b++;
+            //    }
+            //    Console.Write(sum);
+            //}
         }
     }
 }
