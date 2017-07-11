@@ -14,40 +14,28 @@ namespace task12
             x = Console.ReadLine();
             if (x=="a")
             {
-                
-                Console.WriteLine("a+");
-                Console.WriteLine("b");
-                Console.WriteLine("c");
-                Console.WriteLine("d");
-                Console.WriteLine("e");
-                Console.WriteLine("f");
-                Console.WriteLine("g");
-                Console.WriteLine("h");
-                
-            }
-            if (x=="b")
-            {
-                
                 Console.WriteLine("a");
+                Console.WriteLine("+");
+            }
+            else
+            {
+                Console.WriteLine("a");
+            }
+            if (x == "b")
+            {
                 Console.WriteLine("b+");
-                Console.WriteLine("c");
-                Console.WriteLine("d");
-                Console.WriteLine("e");
-                Console.WriteLine("f");
-                Console.WriteLine("g");
-                Console.WriteLine("h");
+            }
+            else
+            {
+                Console.WriteLine("b");
             }
             if (x=="c")
             {
-                
-                Console.WriteLine("a+");
-                Console.WriteLine("b");
                 Console.WriteLine("c+");
-                Console.WriteLine("d");
-                Console.WriteLine("e");
-                Console.WriteLine("f");
-                Console.WriteLine("g");
-                Console.WriteLine("h");
+            }
+            else
+            {
+                Console.WriteLine("c");
             }
            if (x=="d")
             {

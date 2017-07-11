@@ -10,19 +10,19 @@ namespace lab6
     {
         static void Main(string[] args)
         {
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
-            Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
+            //Console.Write("!");
 
             Console.WriteLine();
             int n = 13; // Сколько нужно итераций

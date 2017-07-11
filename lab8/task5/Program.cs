@@ -11,16 +11,22 @@ namespace task5
         static void Main(string[] args)
         {
             String b;
-            b = Console.ReadLine();
+            b = Console.ReadLine(); // 
+            String a;
+            a = Console.ReadLine();
             String[] aa;
             aa = b.Split(' ');
             String[] bb;
-            bb = b.Split(' ');
-            int c = aa.Length * bb.Length;
-            while (c >= 0)
+            bb = a.Split(' ');
+            int c = 0;
+            Console.WriteLine(aa.Length == bb.Length);
+            while (c < aa.Length)
             {
-                Console.WriteLine(aa[c] + " ");
-                Console.WriteLine(bb[c] + " ");
+                Console.WriteLine(int.Parse(aa[c]) + " "); // Нужно преобразовать элемент лев и прав массива в числа
+                Console.WriteLine(int.Parse(bb[c]) + " "); // Перемножаем числа, Выводим произведение
+                Console.WriteLine(int.Parse(aa[c]) * int.Parse(bb[c]));
+                
+                c++;
             }
         }
     }
