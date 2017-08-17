@@ -155,10 +155,10 @@ namespace tfa
                 "a\nb\nc\nd\ne\nf\ng\nh+\n\n" +
                 "a\nb\nc\nd\ne\nf\ng\nh\n\n";
             StringBuilder sb = new StringBuilder();
-            Lab05.task8518(sb, "a").Append("\n");
-            Lab05.task8518(sb, "d").Append("\n");
-            Lab05.task8518(sb, "h").Append("\n");
-            Lab05.task8518(sb, "i").Append("\n");
+            Lab06.task8518(sb, "a").Append("\n");
+            Lab06.task8518(sb, "d").Append("\n");
+            Lab06.task8518(sb, "h").Append("\n");
+            Lab06.task8518(sb, "i").Append("\n");
             if (out8518.Equals(sb.ToString()))
             {
                 Console.WriteLine("Задача решена верно");

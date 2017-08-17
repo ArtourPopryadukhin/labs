@@ -15,7 +15,7 @@ namespace task27
             double a;
             a = double.Parse(t);
             double b;
-            b = Math.Sqrt(1 - Math.Sin(a) * Math.Sin(a));
+            b = Math.Sqrt(1 - Math.Sin(a * Math.PI / 180) * Math.Sin(a * Math.PI / 180));
             Console.WriteLine("{0:F4}", b);
         }
     }

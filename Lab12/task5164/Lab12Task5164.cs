@@ -11,10 +11,10 @@ namespace tfa
     {
         static void Main(string[] args)
         {
-            Step1860();
-            Step4764();
+            //Step1860();
+            //Step4764();
             //Step2429();
-            Step7472();
+            //Step7472();
             //Step3862();
 
             //Step9231();
@@ -23,24 +23,24 @@ namespace tfa
             //Step7271();
             //Step2632();
 
-            //Step4343();
+            Step4343();
         }
 
-        static void Step1860()
-        {
-            Console.WriteLine();
-            Lab01.task1860("знаниям");
-            Lab01.task1860("цели");
-            Lab01.task1860("результату");
-        }
+        //static void Step1860()
+        //{
+        //    Console.WriteLine();
+        //    Lab01.task1860("знаниям");
+        //    Lab01.task1860("цели");
+        //    Lab01.task1860("результату");
+        //}
 
-        static void Step4764()
-        {
-            Console.WriteLine();
-            Lab01.task4764("трудности");
-            Lab01.task4764("загадки");
-            Lab01.task4764("сложные задачи");
-        }
+        //static void Step4764()
+        //{
+        //    Console.WriteLine();
+        //    Lab01.task4764("трудности");
+        //    Lab01.task4764("загадки");
+        //    Lab01.task4764("сложные задачи");
+        //}
 
         //static void Step2429()
         //{
@@ -50,14 +50,14 @@ namespace tfa
         //    Lab01.task2429("перспективно");
         //}
 
-        static void Step7472()
-        {
-            Console.WriteLine();
-            Lab01.task7472("начало", "конец");
-            Lab01.task7472("сила", "знание");
-            Lab01.task7472("курица", "яйцо");
-            Lab01.task7472("шаг", "шаг");
-        }
+        //static void Step7472()
+        //{
+        //    Console.WriteLine();
+        //    Lab01.task7472("начало", "конец");
+        //    Lab01.task7472("сила", "знание");
+        //    Lab01.task7472("курица", "яйцо");
+        //    Lab01.task7472("шаг", "шаг");
+        //}
 
         //static void Step3862()
         //{
@@ -106,18 +106,18 @@ namespace tfa
         //        "#cc6600");
         //}
 
-        //static void Step4343()
-        //{
-        //    Console.WriteLine();
-        //    Console.WriteLine("4343");
-        //    Lab01.task4343("test", "pass", "localhost", "5432", "my_db");
-        //    Lab01.task4343(
-        //            "admin",
-        //            "7e8efd48d69c",
-        //            "production-node1",
-        //            "5432",
-        //            "bank");
-        //    Lab01.task4343("akryukov", "123", "localhost", "dev-node1", "bank");
-        //}
+        static void Step4343()
+        {
+            Console.WriteLine();
+            Console.WriteLine("4343");
+            Lab01.task4343("test", "pass", "localhost", "5432", "my_db");
+            Lab01.task4343(
+                    "admin",
+                    "7e8efd48d69c",
+                    "production-node1",
+                    "5432",
+                    "bank");
+            Lab01.task4343("akryukov", "123", "localhost", "dev-node1", "bank");
+        }
     }
 }
