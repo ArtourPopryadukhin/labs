@@ -88,5 +88,19 @@ namespace Methods
         {
             return a * a;
         }
+
+        public static double task9020(double a)
+        {
+            double b;
+            if (61 - a < 0)
+            {
+                //Создание экземпляра исключения
+                Exception error = new Exception("Подкоренное выражение должно быть неотрицательным");
+                //выбрасывание исключения
+                throw error;
+            }
+            b = 3 * Math.Sqrt(61 - a);
+            return b;
+        }
     } 
 }
